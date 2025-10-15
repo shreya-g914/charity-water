@@ -1,2 +1,2 @@
 # charity-water
-Making my landing page design to a real website. 
+Making my landing page design to a real website.
